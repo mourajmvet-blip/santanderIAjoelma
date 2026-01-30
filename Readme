@@ -1,0 +1,137 @@
+Projeto: Construção de Plano de Aula com Apoio de Inteligência Artificial
+
+1. Descrição do Desafio
+
+Este projeto teve como desafio a elaboração de um **plano de aula** para o ensino superior, no contexto do curso de **Medicina Veterinária**, disciplina de **Animais Silvestres**, contemplando conteúdos de **Evolução dos Vertebrados e Cladística**.  
+
+O objetivo central foi estruturar uma aula com rigor técnico-científico, alinhada às Diretrizes Curriculares Nacionais, adequada ao nível de formação de estudantes do quarto ano da graduação, integrando metodologias ativas, diferenciação de perfis de aprendizagem e princípios éticos no uso de tecnologias digitais e inteligência artificial.
+
+O desafio envolveu não apenas a organização do conteúdo, mas também a definição de objetivos educacionais claros, estratégias metodológicas coerentes, atividade prática em sala e transparência quanto ao uso de ferramentas de IA no processo de construção do material didático.
+
+---
+
+2. Resumo do Plano de Aula
+
+O plano de aula desenvolvido aborda os **principais marcos da evolução dos vertebrados**, desde a origem dos cordados até a diversificação de peixes, anfíbios, répteis, aves e mamíferos, articulando esses conhecimentos com os **fundamentos da cladística** aplicada à Medicina Veterinária de Animais Silvestres.
+
+A aula possui duração total de **3 horas e 30 minutos**, estruturada em momentos expositivos dialogados, análise comparativa de características evolutivas e uma **atividade prática de construção e interpretação de cladogramas**, com duração de 50 minutos.
+
+Foram considerados **dois perfis de alunos** (nível básico e intermediário), garantindo acessibilidade conceitual sem perda de profundidade científica. O plano enfatiza a relação entre evolução, adaptação ecológica e implicações clínicas, reforçando a importância do pensamento evolutivo para a prática veterinária, conservação da fauna e abordagem em Saúde Única.
+
+---
+
+3. Ferramentas de Inteligência Artificial Utilizadas
+
+Durante o desenvolvimento do projeto, foram utilizadas as seguintes ferramentas de Inteligência Artificial:
+
+- **ChatGPT (OpenAI)**  
+  Utilizado para apoio na estruturação do plano de aula, organização didática do conteúdo, redação técnica em nível de graduação e elaboração de atividades pedagógicas.
+
+- **Microsoft Copilot**  
+  Utilizado como ferramenta complementar para revisão, organização textual e apoio na coerência pedagógica do material.
+
+O uso das ferramentas seguiu princípios éticos, sem inserção de dados pessoais, com **revisão integral, curadoria e responsabilidade final do docente**.
+
+---
+
+## 4. Prompts Utilizados
+
+Prompt 1 – Elaboração do Plano de Aula
+> “Eu quero que você crie me um plano de aula e como professor responsável pela disciplina de animais silvestres de medicina veterinária, do quarto ano do curso de medicina veterinária, com o tema da aula evolução dos vertebrados e cladística.  
+> Duração da aula: 3 horas e 30 minutos.  
+> Você deve incluir proposta de atividade em sala com duração de 50 minutos para a conclusão da aula.  
+> Perfis: 2 perfis de alunos, nível baixo e nível intermediário.  
+> A todo momento use perfil técnico na escrita compatível com o nível dos alunos em fase final universitária.  
+> Insira a transparência do uso da IA no preparo deste plano de aula.  
+> Respeite os preceitos éticos quanto ao uso de dados.”
+
+Prompt 2 – Elaboração de Apresentação em PowerPoint
+> “Com base no plano de aula sobre evolução dos vertebrados anexo e o PDF contendo o material de apoio para embasar o conteúdo, crie uma apresentação com 30 slides.”
+
+## 5. Links para os Arquivos
+
+- 📄 **Plano de Aula (documento)**:  
+  🔗 *https://github.com/mourajmvet-blip/santanderIAjoelma.git
+
+- 📊 **Apresentação em PowerPoint**:  
+  🔗 *https://github.com/mourajmvet-blip/santanderIAjoelma.git
+- 💻 **Repositório GitHub do Projeto**:  
+  🔗 *https://github.com/mourajmvet-blip/santanderIAjoelma.git
+
+## 6. Reflexão Final
+
+A construção deste plano de aula evidenciou o potencial da **Inteligência Artificial como ferramenta de apoio pedagógico**, especialmente na organização de conteúdos complexos e na otimização do tempo docente.  
+
+No entanto, o projeto reforça que a IA não substitui o conhecimento técnico, a experiência pedagógica e o julgamento crítico do professor. Seu uso deve ser entendido como **instrumento complementar**, sempre mediado por critérios éticos, científicos e educacionais.
+
+A integração consciente da IA ao ensino superior contribui para práticas pedagógicas mais inovadoras, reflexivas e alinhadas às demandas contemporâneas da formação profissional em Medicina Veterinária.
+
+## 7. Créditos e Autoria
+**Autoria:**  
+Prof.ª Joelma Moura Alvarez  
+**Curso:** Medicina Veterinária  
+**Disciplina:** Animais Silvestres  
+**Instituição:** Universidade de Mogi das Cruzes (UMC)  
+**Ano:** 2026  
+**Apoio Tecnológico:**  
+ChatGPT (OpenAI) e Microsoft Copilot  
+
+
+PLANO DE AULA – Evolução dos Vertebrados e Cladística
+Disciplina: Animais Silvestres – Medicina Veterinária
+Ano: 4º ano
+Duração: 3h30min
+Professor responsável: XXXX
+Data: 05/02/2026
+1. Objetivos da Aula
+1.1 Objetivo Geral
+Compreender os principais marcos evolutivos dos vertebrados e aplicar os fundamentos da cladística na análise comparativa entre diferentes grupos de animais silvestres, com foco na prática profissional médico-veterinária.
+1.2 Objetivos Específicos
+- Explicar a origem e diversificação dos vertebrados ao longo do registro evolutivo.
+- Identificar sinapomorfias relevantes para classificação cladística de grandes clados vertebrados.
+- Analisar relações evolutivas por meio de árvores filogenéticas simples.
+- Relacionar características morfofuncionais à adaptação ecológica de espécies silvestres.
+- Desenvolver raciocínio comparativo adequado ao exercício clínico e biológico da Medicina Veterinária.
+2. Conteúdo Programático
+2.1 Evolução dos Vertebrados (1h40min)
+- Origem dos cordados e características gerais.
+- Transição dos protocordados para vertebrados basais.
+- Inovações evolutivas (crânio, endoesqueleto, mandíbula, membros pares, amniota).
+- Diversificação dos grandes grupos: peixes, anfíbios, répteis, aves e mamíferos.
+- Relação entre evolução e ecologia de espécies silvestres.
+2.2 Cladística aplicada à Medicina Veterinária (1h00min)
+- Conceitos fundamentais: táxons, clados, sinapomorfias, homologia e homoplasia.
+- Princípios da sistemática filogenética.
+- Construção e interpretação de cladogramas.
+- Aplicações da cladística na prática veterinária.
+3. Metodologia de Ensino
+Exposição dialogada, aprendizagem ativa e estratégias diferenciadas para dois perfis de alunos.
+4. Atividade em Sala (50 minutos)
+Construção e análise de cladograma aplicado à Medicina Veterinária de Animais Silvestres.
+5. Avaliação Geral da Aula
+Participação, atividade final e capacidade de estabelecer relações evolutivas.
+6. Transparência no Uso de Inteligência Artificial
+Este plano foi parcialmente elaborado com apoio de IA (Microsoft Copilot), seguindo princípios éticos, sem uso de dados pessoais e com revisão integral do docente responsável.
+
+
+
+Origem dos vertebrados e transição evolutiva
+Os primeiros vertebrados surgiram no ambiente aquático há aproximadamente 520 milhões de anos, durante o período Cambriano. Esses organismos ancestrais eram semelhantes a peixes primitivos, desprovidos de mandíbulas, conhecidos como agnatos. A evolução da coluna vertebral, substituindo parcialmente a notocorda, representou uma inovação crucial, proporcionando maior suporte corporal e eficiência locomotora.
+Um dos eventos evolutivos mais relevantes foi o surgimento das mandíbulas, que deu origem aos gnatostomados. Essa inovação ampliou significativamente as estratégias alimentares, permitindo a predação ativa e impulsionando uma intensa diversificação adaptativa. Associado a isso, o desenvolvimento de nadadeiras pares contribuiu para maior controle de movimento no meio aquático.
+Diversificação dos vertebrados aquáticos
+Os peixes representam o grupo mais antigo e diversificado de vertebrados. Eles podem ser divididos, de forma geral, em peixes cartilaginosos e peixes ósseos. A evolução do esqueleto ósseo, da bexiga natatória e de sistemas respiratórios mais eficientes permitiu a ocupação de diferentes nichos ecológicos.
+Do ponto de vista veterinário, compreender a evolução dos peixes é essencial para o manejo de espécies silvestres aquáticas, a avaliação sanitária de ambientes naturais e a interpretação de particularidades fisiológicas, como a osmorregulação e a respiração branquial, que diferem substancialmente dos vertebrados terrestres.
+A conquista do ambiente terrestre
+A transição do ambiente aquático para o terrestre representa um dos marcos mais importantes da evolução dos vertebrados. Esse processo ocorreu gradualmente, a partir de peixes com nadadeiras lobadas, que deram origem aos primeiros tetrápodes. Essa transição exigiu profundas adaptações, incluindo o desenvolvimento de pulmões funcionais, membros capazes de sustentar o peso corporal, modificações na pele para reduzir a perda de água e mudanças no sistema circulatório.
+Os anfíbios surgem como um grupo transicional, mantendo forte dependência da água para a reprodução, mas já explorando o ambiente terrestre. Essa característica reflete claramente sua posição evolutiva intermediária e explica diversas particularidades clínicas e sanitárias observadas nesses animais, como a permeabilidade cutânea e a elevada sensibilidade a alterações ambientais.
+Répteis, aves e mamíferos: adaptações e especializações
+A evolução dos répteis marcou a independência definitiva do ambiente aquático para a reprodução, principalmente com o surgimento do ovo amniótico. Esse avanço permitiu a colonização de ambientes mais secos e variados. Os répteis apresentam adaptações como pele queratinizada, metabolismo predominantemente ectotérmico e grande diversidade de estratégias ecológicas.
+A partir dos répteis ancestrais, dois grandes ramos evolutivos deram origem às aves e aos mamíferos. As aves desenvolveram adaptações extremas para o voo, incluindo ossos pneumáticos, musculatura especializada, penas e um sistema respiratório altamente eficiente. Já os mamíferos caracterizam-se pela endotermia, presença de pelos e glândulas mamárias, além de um elevado grau de especialização neurológica e comportamental.
+Para a Medicina Veterinária de Animais Silvestres, essas diferenças evolutivas explicam variações importantes na fisiologia, no metabolismo, na resposta imunológica e na susceptibilidade a doenças entre os diferentes grupos, sendo fundamentais para a prática clínica e o manejo adequado.
+Importância da evolução para a Medicina Veterinária de Animais Silvestres
+O estudo da evolução dos vertebrados fornece a base para a compreensão comparada da anatomia, fisiologia, patologia e comportamento animal. A abordagem evolutiva permite ao médico-veterinário interpretar sinais clínicos, adaptar protocolos de manejo, compreender limitações biológicas e atuar de forma ética e responsável na conservação da fauna.
+Além disso, a evolução está diretamente relacionada aos conceitos modernos de conservação, bem-estar animal e saúde única, pois evidencia a interdependência entre espécies, ambientes e seres humanos. Assim, compreender a história evolutiva dos vertebrados não é apenas um exercício teórico, mas uma ferramenta essencial para a formação crítica e técnica do profissional que atuará com animais silvestres.
+Considerações finais
+A evolução dos vertebrados é um processo dinâmico, marcado por inovações adaptativas que permitiram a ampla diversidade de formas de vida observada atualmente. Para o estudante de Medicina Veterinária, especialmente na área de Animais Silvestres, esse conhecimento é indispensável para integrar ciência básica e prática profissional, promovendo uma atuação fundamentada, ética e alinhada às demandas contemporâneas de conservação e saúde animal.
+
+
